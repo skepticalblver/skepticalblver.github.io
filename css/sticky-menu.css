@@ -70,6 +70,12 @@ html {
     text-align: center;
     background: #fff;
 }
+.media-section {
+    height: 120%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
 .research-section {
     height: 180%;
     padding-top: 150px;
