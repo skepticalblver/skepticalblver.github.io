@@ -547,16 +547,16 @@ body {
 	}
 
 	.cat-item.clr1 {
-		background: #8d6aa8;
-		background: #8d6aa8;
+		background: #8078c7;
+		background: #8078c7;
 	}
 
 	.cat-item.clr2 {
-		background: #8dc2d1;
+		background: #a75f42;
 	}
 
 	.cat-item.clr3 {
-		background: #8d6aa8;
+		background: #8078c7;
 		margin-right: 0;
 		padding-right: 50px;
 	}
@@ -773,7 +773,7 @@ body {
 	font-size: 14px;
   font-weight: 600;
   line-height: 1.6;
-  color: #e0be88;
+  color: #d4b551;
   text-decoration: none;
   position: relative;
   display: inline-block;
@@ -786,7 +786,7 @@ body {
 	bottom: -3%;
 	height: 2px;
 	width: 85px;
-	background: #e0be88;
+	background: #d4b551;
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
 }
@@ -994,7 +994,7 @@ body {
 
 
 	.rev-client .rev-text a {
-		color: #e0be88;
+		color: #d4b551;
 		text-decoration: none;
 	}
 
@@ -1037,7 +1037,7 @@ body {
 		padding: 15%;
 		margin: 0 auto;
 		margin-bottom: 30px;
-		background-color: #e0be88;
+		background-color: #d4b551;
 		border: transparent;
 		max-width: 400px;
 	}
@@ -1058,7 +1058,7 @@ body {
 
 	.pricing-section .table-right {
 		color: #FFFFFF !important;
-		background-color: #e0be88;
+		background-color: #d4b551;
 	}
 /*
 	.pricing-section .table-right h3, .pricing-section .table-right p {
@@ -1197,7 +1197,7 @@ body {
 	.yd_faqs .faq_inner a {
 		display: inline;
 		font-family: 'Open Sans';
-		color: #e0be88;
+		color: #d4b551;
 		font-size: 14px;
 		font-weight: 400;
 		text-decoration: none;
@@ -1586,7 +1586,7 @@ body {
 	text-transform: capitalize;
   position: relative;
   display: inline-block;
-  color: #e0be88;
+  color: #d4b551;
   text-decoration: none;
 }
 
