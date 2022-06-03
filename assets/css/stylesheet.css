@@ -773,7 +773,7 @@ body {
 	font-size: 14px;
   font-weight: 600;
   line-height: 1.6;
-  color: #084771;
+  color: #e0be88;
   text-decoration: none;
   position: relative;
   display: inline-block;
@@ -786,7 +786,7 @@ body {
 	bottom: -3%;
 	height: 2px;
 	width: 85px;
-	background: #084771;
+	background: #e0be88;
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
 }
@@ -994,7 +994,7 @@ body {
 
 
 	.rev-client .rev-text a {
-		color: #084771;
+		color: #e0be88;
 		text-decoration: none;
 	}
 
@@ -1197,7 +1197,7 @@ body {
 	.yd_faqs .faq_inner a {
 		display: inline;
 		font-family: 'Open Sans';
-		color: #084771;
+		color: #e0be88;
 		font-size: 14px;
 		font-weight: 400;
 		text-decoration: none;
@@ -1586,7 +1586,7 @@ body {
 	text-transform: capitalize;
   position: relative;
   display: inline-block;
-  color: #084771;
+  color: #e0be88;
   text-decoration: none;
 }
 
