@@ -6783,4 +6783,53 @@ button.close {
     }
 }
 
+.service-item {
+    margin-bottom: 10px;
+    padding: 50px;
+    background-color: #000;
+    transition: all 0.5s;
+    opacity:0.7;
+}
+
+.service-item h4 {
+    color:#fff;
+    transition: all 0.5s;
+}
+
+.service-item p {
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.service-item:hover {
+    background-color: #fff;
+}
+
+.service-item:hover h4 {
+    color: #000;
+}
+
+.service-item:hover p {
+    color: #000;
+}
+
+.service-item .service-icon {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    margin-bottom: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.5s;
+}
+
+.service-item .fa {
+	font-size: 72px;
+	padding: 20px 0;
+	transition: all 0.5s;
+}
+.service-item:hover .fa {
+	color: #000;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */

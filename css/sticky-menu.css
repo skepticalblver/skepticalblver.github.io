@@ -77,10 +77,14 @@ html {
     background: #fff;
 }
 .research-section {
-    height: 180%;
+    height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background-image: url("../figures/credit_NASA_JPL2.png");
+    opacity:0.9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #fff;
 }
 .contact-section {
     height: 100%;
