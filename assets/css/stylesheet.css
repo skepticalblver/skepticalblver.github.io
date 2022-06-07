@@ -344,16 +344,16 @@ body {
 }
 
 .navbar.past-main .navbar-brand {
-	color: #333347 !important;
+	color: #2a6c88 !important;
 }
 
 .nav-white.past-main .nav-item .nav-link {
-  color: #8a8a8a;
+  color: #e0dedc;
 	font-weight:600;
 }
 
 .navbar.past-main .nav-item .nav-link {
-	color: #8a8a8a;
+	color: #e0dedc;
 	font-weight: 600;
 }
 
