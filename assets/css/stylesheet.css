@@ -99,12 +99,12 @@ body {
 
 ::-moz-selection {
     color: #FFFFFF;
-    background: #23D3D3;
+    background: #000000;
 }
 
 ::selection {
     color: #FFFFFF;
-    background: #23D3D3;
+    background: #000000;
 }
 
 .nopadding {
@@ -139,7 +139,7 @@ body {
    left: 0px;
    position: fixed;
    opacity: 1;
-   background-color: #F2F2F2;
+   background-color: #000000;
    z-index: 9999;
    text-align: center;
 }
