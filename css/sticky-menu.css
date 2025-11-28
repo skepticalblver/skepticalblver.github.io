@@ -103,3 +103,33 @@ html {
 .navbar-default .navbar-nav > li > a {
     color: #D5D0C9;
 }
+
+/* ===============================
+   Research Grid (Cartoon + Text)
+   =============================== */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); /* left images, right text */
+  gap: 2rem;
+  align-items: stretch;
+}
+
+.research-grid .research-img .cat-item,
+.research-grid .research-text .cat-item {
+  height: 100%;
+}
+
+.research-grid .research-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
