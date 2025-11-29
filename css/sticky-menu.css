@@ -104,28 +104,6 @@ html {
     color: #D5D0C9;
 }
 
-/* Two-column layout: left = cartoons, right = text boxes */
-.research-row {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-
-.research-img-block {
-  margin-bottom: 1.5rem;
-}
-
-.research-img-block img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-/* optional: add a little vertical spacing between text cards */
-.research-text-block {
-  margin-bottom: 3.5rem;
-}
-
-
 /* Increase vertical spacing between the 4 cartoon panels */
 .research-img-block {
   margin-bottom: 10.5rem;   /* increase or decrease as needed */
@@ -133,7 +111,7 @@ html {
 
 /* Add some breathing room between the text boxes */
 .research-text-block {
-  margin-bottom: 2.2rem;   /* adjust to taste */
+  margin-bottom: 3.2rem;   /* adjust to taste */
 }
 
 /* Optional: add top padding inside the text boxes themselves */
@@ -141,6 +119,15 @@ html {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
+
+.research-img-block img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 
 
 
