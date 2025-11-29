@@ -104,48 +104,25 @@ html {
     color: #D5D0C9;
 }
 
-/* ==========================
-   Research image + text rows
-   ========================== */
-
-.research-pair {
-  display: flex;
-  gap: 1.5rem;
-  align-items: stretch;
-  justify-content: center;
+/* Two-column layout: left = cartoons, right = text boxes */
+.research-row {
+  margin-top: 2rem;
   margin-bottom: 2rem;
 }
 
-.research-pair .research-img,
-.research-pair .research-card {
-  flex: 0 0 50%;          /* two equal columns */
-  max-width: 480px;       /* keep them closer to square, not super wide */
+.research-img-block {
+  margin-bottom: 1.5rem;
 }
 
-.research-pair .research-img .cat-item,
-.research-pair .research-card .cat-item {
-  height: 100%;           /* make image card and text card same height */
-}
-
-/* Make the cartoon fill its half nicely */
-.research-pair .research-img img {
+.research-img-block img {
   width: 100%;
   height: auto;
   display: block;
 }
 
-/* Stack on phone-sized screens */
-@media (max-width: 768px) {
-  .research-pair {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .research-pair .research-img,
-  .research-pair .research-card {
-    flex: 0 0 auto;
-    max-width: 100%;
-  }
+/* optional: add a little vertical spacing between text cards */
+.research-text-block {
+  margin-bottom: 1.5rem;
 }
 
 
