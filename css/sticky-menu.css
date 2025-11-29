@@ -126,6 +126,13 @@ html {
 }
 
 
+.ft-image img {
+  max-width: 240px;   /* change this value to resize */
+  height: auto;
+}
+
+
+
 
 
 
