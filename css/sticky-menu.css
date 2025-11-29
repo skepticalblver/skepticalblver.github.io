@@ -122,13 +122,13 @@ html {
 
 /* optional: add a little vertical spacing between text cards */
 .research-text-block {
-  margin-bottom: 1.5rem;
+  margin-bottom: 3.5rem;
 }
 
 
 /* Increase vertical spacing between the 4 cartoon panels */
 .research-img-block {
-  margin-bottom: 2.5rem;   /* increase or decrease as needed */
+  margin-bottom: 10.5rem;   /* increase or decrease as needed */
 }
 
 /* Add some breathing room between the text boxes */
@@ -141,6 +141,7 @@ html {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
 
 
 
