@@ -114,8 +114,8 @@ html {
 
 /* Optional: add top padding inside the text boxes themselves */
 .research-text-block .cat-item {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
 }
 
 
@@ -124,6 +124,7 @@ html {
   height: auto;
   display: block;
 }
+
 
 
 
