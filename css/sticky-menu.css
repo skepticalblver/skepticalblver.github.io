@@ -126,5 +126,23 @@ html {
 }
 
 
+/* Increase vertical spacing between the 4 cartoon panels */
+.research-img-block {
+  margin-bottom: 2.5rem;   /* increase or decrease as needed */
+}
+
+/* Add some breathing room between the text boxes */
+.research-text-block {
+  margin-bottom: 2.2rem;   /* adjust to taste */
+}
+
+/* Optional: add top padding inside the text boxes themselves */
+.research-text-block .cat-item {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+
+
 
 
