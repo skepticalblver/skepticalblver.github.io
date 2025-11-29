@@ -104,14 +104,12 @@ html {
     color: #D5D0C9;
 }
 
-/* Increase vertical spacing between the 4 cartoon panels */
-.research-img-block {
-  margin-bottom: 10.5rem;   /* increase or decrease as needed */
+.research-row .research-img-block {
+  margin-bottom: 10.5rem !important;
 }
 
-/* Add some breathing room between the text boxes */
-.research-text-block {
-  margin-bottom: 3.2rem;   /* adjust to taste */
+.research-row .research-text-block {
+  margin-bottom: 3.2rem !important;
 }
 
 /* Optional: add top padding inside the text boxes themselves */
@@ -126,6 +124,7 @@ html {
   height: auto;
   display: block;
 }
+
 
 
 
